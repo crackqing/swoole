@@ -1,0 +1,10 @@
+{
+    "name": "TASK",
+    "version": "1.0.0",
+    "title": "API",
+    "header": {
+      "title": "HEADER",
+      "filename": "header.md"
+    },
+    "url" : "http://192.168.3.34:9501"
+  }
